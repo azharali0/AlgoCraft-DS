@@ -1,3 +1,4 @@
+// code for the printing the heap elements 
 public class MaxHeap {
     int[] Heap;
     int size;
